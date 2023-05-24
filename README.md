@@ -18,5 +18,7 @@ This code performs audio classification using the MFCC (Mel-frequency cepstral c
 Overall, this code demonstrates the process of extracting MFCC features from audio files and training an SVM classifier for audio classification. It uses Librosa for audio processing and scikit-learn for data splitting, model training, and evaluation. The SVM model can then be used to predict the labels for new audio samples.
 
 The additional files are:
+
 record.py: to record 10 voice samples of a user and save it which can be further moved to the samples folder to be used for training
+
 predict.py: to predict the speaker using an already existing voice sample or record a voice sample and predict the speaker
