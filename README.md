@@ -22,3 +22,5 @@ The additional files are:
 record.py: to record 10 voice samples of a user and save it which can be further moved to the samples folder to be used for training
 
 predict.py: to predict the speaker using an already existing voice sample or record a voice sample and predict the speaker
+
+Note: The file addresses used here are according to my computer folders and files
